@@ -72,7 +72,7 @@ const Contact = () => {
     const form = formRef.current;
 
     try {
-      const response = await fetch("c", {
+      const response = await fetch("https://formspree.io/f/xpwaerya", {
         method: "POST",
         headers: {
           Accept: "application/json",
