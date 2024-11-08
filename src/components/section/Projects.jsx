@@ -14,8 +14,8 @@ const Projects = () => {
     {
       title: "Anime Plus",
       description: isNorwegian
-        ? "En anime streaming-plattform som lar brukere utforske og se på deres favoritt anime serier. Inneholder funksjoner som søk, filtrering, og personlige anbefalinger."
-        : "An anime streaming platform that allows users to explore and watch their favorite anime series. Features include search, filtering, and personalized recommendations.",
+        ? "Landingsside for en anime-strømmetjeneste laget med React, Tailwind CSS, Framer Motion og Vite."
+        : "Landing page for an anime streaming platform built with React, Tailwind CSS, Framer Motion, and Vite",
       technologies: ["React", "Tailwind", "Framer Motion"],
       liveLink: "https://anime-plus-tau.vercel.app/",
       githubLink: "https://github.com/kamilz92/anime_plus",
